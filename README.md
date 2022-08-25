@@ -11,5 +11,4 @@ Me chamo {seu nome} e sou estudante (ou atuo na área de senvolvimento), curso {
 
 ## About
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amandahp&theme=dark)](https://git.io/streak-stats)
-[![GitHub Streak](https://awesome-github-stats.azurewebsites.net/user-stats/amandahp?cardType=octocat&theme=midnight-purple&Text=7DCE13&Background=000000&Title=FA2FB5&Ring=FA2FB5)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amandahp&theme=dark)] [![GitHub Streak](https://awesome-github-stats.azurewebsites.net/user-stats/amandahp?cardType=octocat&theme=midnight-purple&Text=7DCE13&Background=000000&Title=FA2FB5&Ring=FA2FB5)]
